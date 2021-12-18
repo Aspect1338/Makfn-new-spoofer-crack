@@ -18,3 +18,5 @@ eac mapper: https://cdn.discordapp.com/attachments/921817357163327559/9218231347
 BE driver didnt want to dump so that will come soon
 
 credits nugy#2832 for the dump
+
+(pretty sure dll contains a rat caused nugys pc to get fried)
